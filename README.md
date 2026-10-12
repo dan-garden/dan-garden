@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Gold%20Coast-Australia-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Gold Coast, Australia" />
 <img src="https://img.shields.io/badge/Open%20to-opportunities-22c55e?style=for-the-badge" alt="Open to opportunities" />
 <a href="https://fusionvault.net"><img src="https://img.shields.io/badge/fusionvault.net-visit-7c3aed?style=for-the-badge&logo=rust&logoColor=white" alt="fusionvault.net" /></a>
-<a href="mailto:dangarden@gmail.com"><img src="https://img.shields.io/badge/Email-dangarden%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="mailto:coder@outlook.com.au"><img src="https://img.shields.io/badge/Email-coder%40outlook.com.au-0078d4?style=for-the-badge" alt="Email me" /></a>
 
 </div>
 
@@ -94,7 +94,7 @@ These pieces are open source:
 
 ### 🤝 Let's build something great
 
-Hiring, collaborating, or just curious about FusionVault? **[Drop me a line](mailto:dangarden@gmail.com)**.
+Hiring, collaborating, or just curious about FusionVault? **[Drop me a line](mailto:coder@outlook.com.au)**.
 
 <img src="https://komarev.com/ghpvc/?username=dan-garden&style=flat-square&color=24c6dc&label=profile+views" alt="Profile views" />
 
